@@ -1,6 +1,6 @@
 let submitBtn = document.querySelector('#set-color');
 let body = document.querySelector('body');
-let colorVal = "green";
+let colorVal = "orange";
 
 submitBtn.addEventListener('click', function(evt) {
     // prevent default so page does not refresh
